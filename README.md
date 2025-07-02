@@ -16,7 +16,7 @@ A simple and clean **To-Do List** application built using **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-![To-Do List Preview](https://todo-list0405.netlify.app/)
+[To-Do List Preview](https://todo-list0405.netlify.app/)
 
 ---
 
